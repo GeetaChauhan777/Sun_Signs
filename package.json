@@ -1,0 +1,24 @@
+{
+  "name": "sun_signs",
+  "version": "1.0.0",
+  "description": "in this project only assumption of sun signs nothing is truth",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeetaChauhan777/Sun_Signs.git"
+  },
+  "author": "Geeta Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeetaChauhan777/Sun_Signs/issues"
+  },
+  "homepage": "https://github.com/GeetaChauhan777/Sun_Signs#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
